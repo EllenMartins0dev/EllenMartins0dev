@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou Ellen Fernanda Martins 👋</h1>
+<h1 align="center"></h1>
 
 <p align="center">
 Técnica em Análise e Desenvolvimento de Sistemas | Futura Cientista da Computação | Desenvolvedora Full Stack | Aspirante a Analista de Dados.
@@ -6,14 +6,14 @@ Técnica em Análise e Desenvolvimento de Sistemas | Futura Cientista da Computa
 
 ---
 
-### 🚀 Sobre Mim:
-- 👩‍💻 Desenvolvedora curiosa
-- 🚀 Em constante evolução 
--  🎯 Focada 
--  💡 Criativa 
--  ❤️ Apaixonada por tecnologia 
--  🧩 Gosto de resolver desafios 
--  ✨ Buscando sempre inovar
+### ✨ Sobre Mim:
+- Desenvolvedora curiosa
+- Em constante evolução 
+- Focada 
+- Criativa 
+- Apaixonada por tecnologia 
+- Gosto de resolver desafios 
+- Buscando sempre inovar
 ---
 
 ### 📊 GitHub Stats:
