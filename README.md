@@ -26,7 +26,7 @@ Técnica em Análise e Desenvolvimento de Sistemas | Futura Cientista da Computa
 
 ### 🖥 Tecnologias:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,git,github,arduino,clarion" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,arduino,bootstrap,bulma" />
 </p>
 
 ---
