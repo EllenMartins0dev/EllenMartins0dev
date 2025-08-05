@@ -4,7 +4,8 @@
 Técnica em Análise e Desenvolvimento de Sistemas | Futura Cientista da Computação | Desenvolvedora Full Stack | Aspirante a Analista de Dados.
 </p>
 
-<img width="512" height="196" alt="image" src="https://github.com/user-attachments/assets/46f49f58-5113-4a5c-9a55-a95221306c64" />
+<img width="1280" height="394" alt="image" src="https://github.com/user-attachments/assets/85402fef-564a-48ac-a7ff-9ee393226aae" />
+
 
 ---
 
