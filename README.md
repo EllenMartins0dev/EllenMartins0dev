@@ -48,7 +48,7 @@ Quero oferecer dedicação, cuidado e conhecimento para agregar valor aos projet
   <a href="https://www.linkedin.com/in/ellen-fernanda-martins-dev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ellenfmaartins.dev@gmail.com">
+ <a href="mailto:ellenfmaartins.dev@gmail.com?subject=Contato%20via%20GitHub">Entre em contato por e-mail</a>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
