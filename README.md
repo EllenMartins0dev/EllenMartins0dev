@@ -6,10 +6,18 @@ Técnica em Análise e Desenvolvimento de Sistemas | Futura Cientista da Computa
 
 <img width="1280" height="493" alt="image" src="https://github.com/user-attachments/assets/65236b06-52f6-4df1-9554-74c462ec9d47" />
 
+---
+
+
+### ✨ Sobre Mim:
+Sou recém-formada na área de tecnologia, apaixonada por inovação e desenvolvimento. Busco aprofundar meus conhecimentos através da prática no mercado de trabalho.
+Meu objetivo é contribuir com uma equipe, construir uma rede de contatos e desenvolver uma carreira sólida no setor de tecnologia, aprendendo, compartilhando conhecimentos e colaborando em projetos.
+Sou proativa, criativa, de aprendizado rápido, curiosa e focada na melhoria contínua. Destaco-me em trabalhos em grupo, com empatia, foco e atenção aos detalhes.
+Quero oferecer dedicação, cuidado e conhecimento para agregar valor aos projetos e à empresa, sempre buscando a melhor forma de contribuir.
 
 ---
 
-### ✨ Sobre Mim:
+### 🧠 Competências:
 - Desenvolvedora curiosa
 - Em constante evolução 
 - Focada 
@@ -17,6 +25,7 @@ Técnica em Análise e Desenvolvimento de Sistemas | Futura Cientista da Computa
 - Apaixonada por tecnologia 
 - Gosto de resolver desafios 
 - Buscando sempre inovar
+  
 ---
 
 ### 📊 GitHub Status:
