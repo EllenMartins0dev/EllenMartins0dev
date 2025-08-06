@@ -44,7 +44,7 @@ Quero oferecer dedicação, cuidado e conhecimento para agregar valor aos projet
   <a href="#"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" /></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55"/></a>
   <a href="#"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" /></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/></a>
   <a href="#"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" /></a>
 </p>
 
