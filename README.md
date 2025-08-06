@@ -38,27 +38,13 @@ Quero oferecer dedicação, cuidado e conhecimento para agregar valor aos projet
 
 ### 🖥 Tecnologias:
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/EllenMartins0dev" target="_blank">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub" />
-  </a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="60" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="60" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=javascript" width="60" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java" width="60" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="60" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="60" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" /></a>
 </p>
 
 
