@@ -38,7 +38,7 @@ Quero oferecer dedicação, cuidado e conhecimento para agregar valor aos projet
 
 ### 🖥 Tecnologias:
 <p align="center">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/></a>
   <a href="#"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" /></a>
   <a href="#"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" /></a>
