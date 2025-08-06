@@ -41,7 +41,7 @@ Quero oferecer dedicação, cuidado e conhecimento para agregar valor aos projet
   <a href="#"><img src="https://techstack-generator.vercel.app/html-icon.svg" width="55" height="55" /></a>
   <a href="#"><img src="https://techstack-generator.vercel.app/css-icon.svg" width="55" height="55" /></a>
   <a href="#"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" /></a>
-  <a href="#"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" /></a>
+  <a href="#"><img src="[https://techstack-generator.vercel.app/java-icon.svg](https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667)" width="55" height="55" /></a>
   <a href="#"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" /></a>
   <a href="#"><img src="https://techstack-generator.vercel.app/git-icon.svg" width="55" height="55" /></a>
   <a href="#"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" /></a>
