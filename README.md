@@ -19,7 +19,7 @@ Técnica em Análise e Desenvolvimento de Sistemas | Futura Cientista da Computa
 - Buscando sempre inovar
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Status:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EllenMartins0dev&show_icons=true&theme=tokyonight" alt="GitHub status" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllenMartins0dev&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" width="400" />
