@@ -15,7 +15,7 @@ Meu objetivo é contribuir com uma equipe, construir uma rede de contatos e dese
 Sou proativa, criativa, de aprendizado rápido, curiosa e focada na melhoria contínua. Destaco-me em trabalhos em grupo, com empatia, foco e atenção aos detalhes.
 Quero oferecer dedicação, cuidado e conhecimento para agregar valor aos projetos e à empresa, sempre buscando a melhor forma de contribuir.
 
-###✨ About Me:
+### ✨ About Me:
 I am a recent graduate in the field of technology, passionate about innovation and development. I seek to deepen my knowledge through hands-on experience in the job market.
 My goal is to contribute to a team, build a professional network, and develop a solid career in the tech industry—learning, sharing knowledge, and collaborating on projects.
 I am proactive, creative, a quick learner, curious, and focused on continuous improvement. I stand out in group work with empathy, attention to detail, and a strong focus.
