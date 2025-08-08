@@ -15,7 +15,14 @@ Meu objetivo é contribuir com uma equipe, construir uma rede de contatos e dese
 Sou proativa, criativa, de aprendizado rápido, curiosa e focada na melhoria contínua. Destaco-me em trabalhos em grupo, com empatia, foco e atenção aos detalhes.
 Quero oferecer dedicação, cuidado e conhecimento para agregar valor aos projetos e à empresa, sempre buscando a melhor forma de contribuir.
 
+✨ About Me:
+I am a recent graduate in the field of technology, passionate about innovation and development. I seek to deepen my knowledge through hands-on experience in the job market.
+My goal is to contribute to a team, build a professional network, and develop a solid career in the tech industry—learning, sharing knowledge, and collaborating on projects.
+I am proactive, creative, a quick learner, curious, and focused on continuous improvement. I stand out in group work with empathy, attention to detail, and a strong focus.
+I aim to bring dedication, care, and knowledge to add value to projects and the company, always striving to find the best way to contribute.
+
 ---
+
 
 ### 🧠 Competências:
 - Desenvolvedora curiosa
@@ -25,6 +32,16 @@ Quero oferecer dedicação, cuidado e conhecimento para agregar valor aos projet
 - Apaixonada por tecnologia 
 - Gosto de resolver desafios 
 - Buscando sempre inovar
+
+### 🧠 Skills:
+- Curious developer
+- Constantly evolving
+- Focused
+- Creative
+- Passionate about technology
+- Challenge solver
+- Always seeking innovation
+
   
 ---
 
@@ -36,7 +53,7 @@ Quero oferecer dedicação, cuidado e conhecimento para agregar valor aos projet
 
 ---
 
-### 🖥 Tecnologias:
+### 🖥 Tecnologias/Technologies:
 <p align="center">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/></a>
