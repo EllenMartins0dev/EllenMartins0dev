@@ -69,7 +69,7 @@ I aim to bring dedication, care, and knowledge to add value to projects and the 
 
 ---
 
-### 📫 Contatos:
+### 📫 Contatos/Contacts:
 <p align="center">
   <a href="https://www.linkedin.com/in/ellen-fernanda-martins-dev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
