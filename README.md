@@ -30,8 +30,8 @@ Quero oferecer dedicação, cuidado e conhecimento para agregar valor aos projet
 
 ### 📊 GitHub Status:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EllenMartins0dev&show_icons=true&theme=tokyonight" alt="GitHub status" width="425" />
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllenMartins0dev&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EllenMartins0dev&show_icons=true&theme=tokyonight&locale=pt-br" alt="Status do GitHub" width="425" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllenMartins0dev&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas" width="300" />
 </p>
 
 ---
