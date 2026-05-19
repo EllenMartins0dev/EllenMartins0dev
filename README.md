@@ -1,81 +1,127 @@
-<h1 align="center"></h1>
+<h1 align="center">Olá, eu sou a Ellen Fernanda 👋</h1>
 
 <p align="center">
-Técnica em Análise e Desenvolvimento de Sistemas | Futura Cientista da Computação | Desenvolvedora Full Stack | Aspirante a Analista de Dados.
+  Técnica em Análise e Desenvolvimento de Sistemas • Desenvolvedora Full Stack • Futura Cientista da Computação • Aspirante a Analista de Dados
 </p>
 
-<img width="1280" height="493" alt="image" src="https://github.com/user-attachments/assets/65236b06-52f6-4df1-9554-74c462ec9d47" />
+<p align="center">
+  💻 Apaixonada por tecnologia • 🚀 Em constante evolução • 📚 Aprendizado contínuo
+</p>
+
+<img width="1280" height="493" alt="Banner" src="https://github.com/user-attachments/assets/65236b06-52f6-4df1-9554-74c462ec9d47" />
 
 ---
 
+## ✨ Sobre Mim
 
-### ✨ Sobre Mim:
-Sou recém-formada na área de tecnologia, apaixonada por inovação e desenvolvimento. Busco aprofundar meus conhecimentos através da prática no mercado de trabalho.
-Meu objetivo é contribuir com uma equipe, construir uma rede de contatos e desenvolver uma carreira sólida no setor de tecnologia, aprendendo, compartilhando conhecimentos e colaborando em projetos.
-Sou proativa, criativa, de aprendizado rápido, curiosa e focada na melhoria contínua. Destaco-me em trabalhos em grupo, com empatia, foco e atenção aos detalhes.
-Quero oferecer dedicação, cuidado e conhecimento para agregar valor aos projetos e à empresa, sempre buscando a melhor forma de contribuir.
+Sou técnica em Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia, inovação e desenvolvimento de soluções.
 
-### ✨ About Me:
-I am a recent graduate in the field of technology, passionate about innovation and development. I seek to deepen my knowledge through hands-on experience in the job market.
-My goal is to contribute to a team, build a professional network, and develop a solid career in the tech industry—learning, sharing knowledge, and collaborating on projects.
-I am proactive, creative, a quick learner, curious, and focused on continuous improvement. I stand out in group work with empathy, attention to detail, and a strong focus.
-I aim to bring dedication, care, and knowledge to add value to projects and the company, always striving to find the best way to contribute.
+Busco crescer profissionalmente através da prática, contribuindo com projetos, aprendendo continuamente e colaborando em equipe.
+
+Tenho interesse em desenvolvimento Full Stack, análise de dados e construção de aplicações criativas, funcionais e eficientes.
+
+Sou curiosa, dedicada, criativa e focada na melhoria contínua, sempre buscando evoluir tanto tecnicamente quanto pessoalmente.
 
 ---
 
+## ✨ About Me
 
-### 🧠 Competências:
-- Desenvolvedora curiosa
-- Em constante evolução 
-- Focada 
-- Criativa 
-- Apaixonada por tecnologia 
-- Gosto de resolver desafios 
-- Buscando sempre inovar
+I am a Systems Analysis and Development graduate passionate about technology, innovation, and software development.
 
-### 🧠 Skills:
-- Curious developer
-- Constantly evolving
-- Focused
-- Creative
-- Passionate about technology
-- Challenge solver
-- Always seeking innovation
+I seek professional growth through hands-on experience, contributing to projects, collaborating with teams, and continuously learning.
 
+I am interested in Full Stack Development, Data Analysis, and building creative, functional, and efficient applications.
+
+Curious, dedicated, and always evolving, I strive to improve both technically and personally every day.
+
+---
+
+## 🧠 Competências
+
+- Aprendizado rápido
+- Trabalho em equipe
+- Resolução de problemas
+- Organização e atenção aos detalhes
+- Comunicação empática
+- Pensamento analítico
+- Curiosidade tecnológica
+- Foco em melhoria contínua
+
+---
+
+## 🧠 Skills
+
+- Fast learner
+- Teamwork
+- Problem solving
+- Attention to detail
+- Analytical thinking
+- Empathetic communication
+- Continuous improvement mindset
+- Technology enthusiast
+
+---
+
+## 🚀 Projetos em Destaque
+
+- 📚 Sistema de Biblioteca em Clarion
+- 🌐 Landing Pages Responsivas
+- 🐍 Estudos e projetos com Python
+- 📊 Projetos voltados para análise de dados
+- 💻 Projetos Full Stack em desenvolvimento
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EllenMartins0dev&show_icons=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats" width="430" />
   
----
-
-### 📊 GitHub Status:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EllenMartins0dev&show_icons=true&theme=tokyonight&locale=pt-br" alt="Status do GitHub" width="425" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllenMartins0dev&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllenMartins0dev&layout=compact&theme=tokyonight&locale=pt-br" alt="Top Languages" width="325" />
 </p>
 
 ---
 
+## 🖥️ Tecnologias & Ferramentas
 
-### 🖥 Tecnologias/Technologies:
 <p align="center">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/></a>
-  <a href="#"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" /></a>
-  <a href="#"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" /></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55"/></a>
-  <a href="#"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" /></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/></a>
-  <a href="#"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" /></a>
-</p>
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript"/>
+
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
+
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" alt="MySQL"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub"/>
+
+</p>
 
 ---
 
-### 📫 Contatos/Contacts:
+## 📫 Contatos
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/ellen-fernanda-martins-dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+  <a href="https://www.linkedin.com/in/ellen-fernanda-martins-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- <a href="mailto:ellenfmaartins.dev@gmail.com?subject=Contato%20via%20GitHub">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+
+  <a href="mailto:ellenfmaartins.dev@gmail.com?subject=Contato%20via%20GitHub">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </p>
 
+---
+
+<p align="center">
+  ✨ Obrigada por visitar meu perfil ✨
+</p>
