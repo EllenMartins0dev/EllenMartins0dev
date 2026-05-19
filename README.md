@@ -92,7 +92,7 @@ Curious, dedicated, and always evolving, I strive to improve both technically an
 
 <p align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
 
@@ -109,6 +109,7 @@ Curious, dedicated, and always evolving, I strive to improve both technically an
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub"/>
 
 </p>
+
 
 ---
 
