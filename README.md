@@ -15,11 +15,8 @@
 ## ✨ Sobre Mim
 
 Sou técnica em Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia, inovação e desenvolvimento de soluções.
-
 Busco crescer profissionalmente através da prática, contribuindo com projetos, aprendendo continuamente e colaborando em equipe.
-
 Tenho interesse em desenvolvimento Full Stack, análise de dados e construção de aplicações criativas, funcionais e eficientes.
-
 Sou curiosa, dedicada, criativa e focada na melhoria contínua, sempre buscando evoluir tanto tecnicamente quanto pessoalmente.
 
 ---
@@ -27,11 +24,8 @@ Sou curiosa, dedicada, criativa e focada na melhoria contínua, sempre buscando 
 ## ✨ About Me
 
 I am a Systems Analysis and Development graduate passionate about technology, innovation, and software development.
-
 I seek professional growth through hands-on experience, contributing to projects, collaborating with teams, and continuously learning.
-
 I am interested in Full Stack Development, Data Analysis, and building creative, functional, and efficient applications.
-
 Curious, dedicated, and always evolving, I strive to improve both technically and personally every day.
 
 ---
@@ -75,9 +69,15 @@ Curious, dedicated, and always evolving, I strive to improve both technically an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EllenMartins0dev&show_icons=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats" width="430" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllenMartins0dev&layout=compact&theme=tokyonight&locale=pt-br" alt="Top Languages" width="325" />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=EllenMartins0dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllenMartins0dev&layout=compact&langs_count=7&theme=tokyonight"
+  />
 </p>
 
 ---
