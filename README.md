@@ -78,13 +78,14 @@ Curious, dedicated, and always evolving, I strive to improve both technically an
     height="170em"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EllenMartins0dev&layout=compact&langs_count=7&theme=tokyonight&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&border_color=7aa2f7"
   />
-
-  <img
-    height="170em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EllenMartins0dev&theme=tokyonight"
-  />
 </p>
 
+<p align="center">
+  <img 
+    width="700em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EllenMartins0dev&theme=tokyonight"
+  />
+</p>
 ---
 
 ## 🖥️ Tecnologias & Ferramentas
