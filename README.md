@@ -68,24 +68,21 @@ Curious, dedicated, and always evolving, I strive to improve both technically an
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    width="49%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=EllenMartins0dev&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=bb86fc&icon_color=7aa2f7&text_color=c9d1d9&border_color=7aa2f7"
-  />
+<div align="center">
 
-  <img 
-    width="37%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EllenMartins0dev&layout=compact&langs_count=7&theme=tokyonight&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&border_color=7aa2f7"
-  />
-</p>
+<a href="https://github.com/EllenMartins0dev">
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EllenMartins0dev&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=bb86fc&icon_color=7aa2f7&text_color=c9d1d9&border_color=7aa2f7"/>
+</a>
 
-<p align="center">
-  <img 
-    width="86%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EllenMartins0dev&theme=tokyonight"
-  />
-</p>
+<a href="https://github.com/EllenMartins0dev">
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EllenMartins0dev&layout=compact&langs_count=7&theme=tokyonight&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&border_color=7aa2f7"/>
+</a>
+
+<br><br>
+
+<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EllenMartins0dev&theme=tokyonight"/>
+
+</div>
 
 
 ## 🖥️ Tecnologias & Ferramentas
