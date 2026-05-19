@@ -70,7 +70,7 @@ Curious, dedicated, and always evolving, I strive to improve both technically an
 
 <div align="center">
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
 
 <a href="https://github.com/EllenMartins0dev">
   <img 
