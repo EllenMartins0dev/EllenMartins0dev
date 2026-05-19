@@ -74,7 +74,7 @@ Curious, dedicated, and always evolving, I strive to improve both technically an
   <img 
     height="170em" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=EllenMartins0dev&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=bb86fc&icon_color=7aa2f7&text_color=c9d1d9&border_color=7aa2f7"
-    style="margin-right: 20px;"
+    style="margin-right: -80px;"
   />
 </a>
 
@@ -95,6 +95,7 @@ Curious, dedicated, and always evolving, I strive to improve both technically an
 </div>
 
 
+---
 ## 🖥️ Tecnologias & Ferramentas
 
 <p align="center">
