@@ -68,21 +68,34 @@ Curious, dedicated, and always evolving, I strive to improve both technically an
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EllenMartins0dev&theme=tokyonight"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EllenMartins0dev&theme=tokyonight"
-  />
+<table>
+  <tr>
+    <td>
+      <img 
+        height="200em" 
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=EllenMartins0dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=bb86fc&icon_color=7aa2f7&text_color=c9d1d9&border_color=7aa2f7"
+      />
+    </td>
 
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EllenMartins0dev&theme=tokyonight"
-  />
-</p>
+    <td>
+      <img 
+        height="200em" 
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EllenMartins0dev&layout=compact&langs_count=7&theme=tokyonight&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&border_color=7aa2f7"
+      />
+    </td>
+
+    <td>
+      <img 
+        height="200em"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EllenMartins0dev&theme=tokyonight"
+      />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
