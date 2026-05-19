@@ -71,16 +71,26 @@ Curious, dedicated, and always evolving, I strive to improve both technically an
 <div align="center">
 
 <a href="https://github.com/EllenMartins0dev">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EllenMartins0dev&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=bb86fc&icon_color=7aa2f7&text_color=c9d1d9&border_color=7aa2f7"/>
+  <img 
+    height="170em" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=EllenMartins0dev&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=bb86fc&icon_color=7aa2f7&text_color=c9d1d9&border_color=7aa2f7"
+    style="margin-right: 10px;"
+  />
 </a>
 
 <a href="https://github.com/EllenMartins0dev">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EllenMartins0dev&layout=compact&langs_count=7&theme=tokyonight&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&border_color=7aa2f7"/>
+  <img 
+    height="170em" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EllenMartins0dev&layout=compact&langs_count=7&theme=tokyonight&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&border_color=7aa2f7"
+  />
 </a>
 
 <br><br>
 
-<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EllenMartins0dev&theme=tokyonight"/>
+<img 
+  width="85%" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EllenMartins0dev&theme=tokyonight"
+/>
 
 </div>
 
